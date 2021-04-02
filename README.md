@@ -11,8 +11,9 @@
 <HR>
 
 * ###  Test our Bot by Clicking the button below 
-<button class="btn" type="button">Button</button>
-<button class="btn btn-sm" type="button">Small button</button>
+<a href="#" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
 <br>
 
 # Hosting 🖥
