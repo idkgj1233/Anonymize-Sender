@@ -11,7 +11,7 @@
 <HR>
 
 * ###  Test our Bot by Clicking the button below 
-![@SC_Anonymize_Bot](http://img.shields.io/badge/status-unmaintained-red.png)](http://t.me/SC_Anonymize_Bot)
+![@SC_Anonymize_Bot](http://img.shields.io/badge/status-unmaintained-red.png)(http://t.me/SC_Anonymize_Bot)
 <br>
 
 # Hosting 🖥
