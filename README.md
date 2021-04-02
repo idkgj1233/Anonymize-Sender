@@ -11,10 +11,8 @@
 <HR>
 
 * ###  Test our Bot by Clicking the button below 
-<p>
-  <a class="btn btn-large btn-purple" href="#url" role="button">Large link button</a>
-  <button class="btn btn-large" type="button">Large button button</button>
-</p>
+<button class="btn" type="button">Button</button>
+<button class="btn btn-sm" type="button">Small button</button>
 <br>
 
 # Hosting 🖥
