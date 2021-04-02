@@ -1,6 +1,6 @@
 <p align="center"><a href="https://t.me/UC_bot_channel"><img src="https://telegra.ph/file/718776bc5d013f790c69e.jpg" width="5000"></a></p> 
 <h1 align="center"><b>Saviour_Coder-Anonymize-Sender 🇮🇳 </b></h1>
-<h4 align="center">A Powerful, useful bot  .</h4>
+<h4 align="center">A Powerful, useful File Saver bot  .</h4>
 
 <HR>
 
@@ -8,14 +8,16 @@
 
 <br>
 
-# DEPLOY TO HEROKU
-* [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prothinkergang/anonymous-bot)
+# Hosting 🖥
+
+### Deploying To Heroku ⚙
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/idkgj1233/Anonymize-Sender)
 <br><br>
 
-## Needed Vars
+### Mandatory Configs/Vars 📒
 - `API_ID` - Get This Value from [my.telegram.org](my.telegram.org)
 -  `API_HASH` - Get This Value from [my.telegram.org](my.telegram.org)
-- `START_MESSAGE` - A Optional Var If want to Change The Start Message.
+- `START_MESSAGE` - This is optional and should be changed if you want to change the start message.
 <br><br>
 
-### CONTRIBUTIONS AND SUGGESTIONS ARE WELCOME !!
+### Hope that you like this bot
