@@ -26,7 +26,7 @@ REPLY_MARKUP = InlineKeyboardMarkup([
     [InlineKeyboardButton("🐠 Support Group 🐠",
                           url="t.me/ubuntu_coders")],
     [InlineKeyboardButton("🦧 Support Channel 🦧",
-                          url="t.me/UC_bot_channel")]
+                          url="t.me/UC_bot_channel")],
     [InlineKeyboardButton("🐬 Dev 🐬",
                           url="t.me/saviour_coder")]])
 
