@@ -10,7 +10,7 @@
 
 <HR>
 
-* ###  You Can Find It At **[@Anonymous_SenderBot](t.me/Anonymous_senderbot)**
+* ###  You Can Find It At **[@SC_Anonymize_Bot](t.me/SC_Anonymize_Bot)**
 
 <br>
 
