@@ -11,11 +11,9 @@
 <HR>
 
 * ###  Test our Bot by Clicking the button below 
-**
-* <p>
+<p>
   <a class="btn btn-large btn-purple" href="#urlt.me/SC_Anonymize_Bot" role="button">@SC_Anonymize_Bot</a>
-  </p>
-**
+</p>
 
 <br>
 
