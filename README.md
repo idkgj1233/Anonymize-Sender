@@ -11,7 +11,7 @@
 <HR>
 
 * ###  Test our Bot by Clicking the button below 
-![@SC_Anonymize_Bot](http://img.shields.io/badge/status-unmaintained-red.png)(http://t.me/SC_Anonymize_Bot)
+<a href="http://t.me/SC_Anonymize_Bot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <br>
 
 # Hosting 🖥
