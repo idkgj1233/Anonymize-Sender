@@ -10,7 +10,7 @@
 
 <HR>
   
-  ## I'm a student who just want to learn coding!!
+  ## I'm just a student who just want to learn coding!!
 
 - 🔭 I love to code.
 - 🌱 I’m currently learning everything 🤣
