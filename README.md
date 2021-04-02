@@ -9,6 +9,14 @@
 <a href="https://t.me/ubuntu_coders"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 <HR>
+  
+  ## I'm a student who just want to learn coding!!
+
+- 🔭 I love to code.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to swim and play guitar / drums
 
 ###  Demo for the Bot
 -Test our Bot by Clicking the button below 
