@@ -12,9 +12,8 @@
 
 * ###  Test our Bot by Clicking the button below 
 <p>
-  <a class="btn btn-large btn-purple" href="#url t.me/SC_Anonymize_Bot" role="button">@SC_Anonymize_Bot</a>
+  <a class="btn btn-large btn-purple" href="#url" role="button">@SC_Anonymize_Bot(http://t.me/SC_Anonymize_Bot)</a>
 </p>
-
 <br>
 
 # Hosting 🖥
