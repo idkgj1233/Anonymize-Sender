@@ -14,8 +14,6 @@ Hi, I am **Saviour Coders' ANONYMOUS SENDER BOT.**\n
 Just Forward me the messages or
 media you want to save or remove forward tag and I will **Anonymize** that !!
 
-You Can too Clone me :-
-https://github.com/idkgj1233/Anonymize-Sender
 """
 
 if var.START_MESSAGE is not None:
