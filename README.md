@@ -11,9 +11,7 @@
 <HR>
 
 * ###  Test our Bot by Clicking the button below 
-<a href="#" class="button">Post comment (link)</a>
-<input class="button" type="submit" value="Post comment (input)">
-<button class="button" type="submit">Post comment (button)</button>
+![@SC_Anonymize_Bot](http://img.shields.io/badge/status-unmaintained-red.png)](http://t.me/SC_Anonymize_Bot)
 <br>
 
 # Hosting 🖥
