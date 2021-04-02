@@ -4,6 +4,12 @@
 
 <HR>
 
+## Support 🚑
+<a href="https://t.me/UC_bot_channel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ubuntu_coders"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+<HR>
+
 * ###  You Can Find It At **[@Anonymous_SenderBot](t.me/Anonymous_senderbot)**
 
 <br>
