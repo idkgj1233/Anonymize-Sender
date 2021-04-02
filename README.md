@@ -11,7 +11,7 @@
 <HR>
 
 * ###  Test our Bot by Clicking the button below 
-<a href="http://t.me/SC_Anonymize_Bot"><img src="https://telegra.ph/file/c73ee690a27fa06fd502a.png"></a>
+<a href="http://t.me/SC_Anonymize_Bot"><img src="https://img.shields.io/badge/Click%F0%9F%91%89-SC__Anonymize__Bot-orange"></a>
 <br>
 
 # Hosting 🖥
