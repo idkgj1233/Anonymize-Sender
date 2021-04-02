@@ -11,7 +11,7 @@
 <HR>
 
 * ###  Test our Bot by Clicking the button below 
-<a href="http://t.me/SC_Anonymize_Bot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="http://t.me/SC_Anonymize_Bot"><img src="https://telegra.ph/file/408ee6ade3ef3cb6b4b86.png"></a>
 <br>
 
 # Hosting 🖥
