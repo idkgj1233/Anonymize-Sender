@@ -10,7 +10,7 @@
 
 <HR>
 
-* ###  You Can Find It At **[@SC_Anonymize_Bot](t.me/SC_Anonymize_Bot)**
+* ###  You try the bot at **[@SC_Anonymize_Bot](http://t.me/SC_Anonymize_Bot)**
 
 <br>
 
