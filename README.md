@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/UC_bot_channel"><img src="https://telegra.ph/file/718776bc5d013f790c69e.jpg" width="5000"></a></p> 
+<p align="center"><a href="https://t.me/UC_bot_channel"><img src="https://telegra.ph/file/1e03c485dfc2794b1b8a4.jpg" width="5000"></a></p> 
 <h1 align="center"><b>Saviour_Coder-Anonymize-Sender 🇮🇳 </b></h1>
 <h4 align="center">A Powerful, useful File Saver bot  .</h4>
 
