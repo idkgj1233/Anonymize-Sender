@@ -27,7 +27,7 @@
 # Hosting 🖥
 
 ### Deploying To Heroku ⚙
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/idkgj1233/Anonymize-Sender)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/idkgj1233/SC-Anonymize-Sender)
 <br><br>
 
 ### Mandatory Configs/Vars 📒
