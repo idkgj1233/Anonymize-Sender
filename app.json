@@ -1,7 +1,7 @@
 {
   "name": "SC Anonymous Sender bot",
   "description": "A bot to hide the Sender of Messages",
-  "repository": "https://github.com/idkgj1233/Anonymize-Sender",
+  "repository": "https://github.com/idkgj1233/SC-Anonymize-Sender",
   "logo": "https://telegra.ph/file/889e66c39d5078dac0795.jpg",
   "keywords": ["telegram", "Anonymous Sender", "Hide sender","telegram bot"],
   "env": {
